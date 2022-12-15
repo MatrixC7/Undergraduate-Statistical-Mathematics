@@ -1,6 +1,6 @@
 # Undergraduate-Statistical-Mathematics
 
-The books in this repository are selected as references according to my own three-year experience as an Undergraduate of Mathematics for Statistics at Imperial College London.
+The books in this repository are selected for references according to my own three-year experience as an Undergraduate of Mathematics for Statistics at Imperial College London.
 
 ## Year 1
 
